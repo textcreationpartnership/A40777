@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Faithfull souldier, or, The Speech of a common souldier concerning his arreares and putting the King to death</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40777</idno>
+            <idno type="STC">Wing F287</idno>
+            <idno type="STC">ESTC R29801</idno>
+            <idno type="EEBO-CITATION">11209095</idno>
+            <idno type="OCLC">ocm 11209095</idno>
+            <idno type="VID">46777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46777)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Faithfull souldier, or, The Speech of a common souldier concerning his arreares and putting the King to death</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46777:1"/>
+            <pb facs="tcp:46777:1"/>
+            <p>The Faithfull Souldier. <hi>OR,</hi> THE SPEECH OF A COMMON SOULDIER <hi>CONCERNING</hi> His <hi>ARREARES,</hi> AND Putting the KING to death.</p>
+            <p>Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:46777:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:46777:2"/>
+            <head>THE FAITHFVL SOVLDIER. OR, The Speech of a Common Souldier concerning his Arrears, &amp;c.</head>
+            <opener>
+               <salute>Fellow Souldiers,</salute>
+            </opener>
+            <p>HEare me a word or two, I have ſomewhat to ſay which concernes every man of us. We heare they intend to put the <hi>KING</hi> to death; they know <hi>(Fellow-Souldiers)</hi> it is in our power to ſave His life, for if we think fit to have Him live, neither <hi>Councell</hi> nor <hi>Commiſſioners</hi> will dare to touch Him. And as our caſe yet ſtands, I think we are ſtark mad if we ſuffer Him to die; for as yet they have not paid us our Arrears, and perhaps never will when the KING is once dead; they promiſed to pay us this day and that day, but now they confeſſe, that <hi>indeed they dare not give us our Arrears,</hi> for they ſay, <hi>If we Souldiers once had all our money, we would ſoon disband and goe home to our friends.</hi> Is this faire dealing? by this Rule we must never have it, for they can alwayes ſay they dare not truſt us; this makes them give us now and then a pittance, which ſcarce keeps life and ſoule tegether; but for our Arreares (which are as truly ours as the cloathes upon our backs) we may wait long enough. For if the KING be put to death, there will be ſuch weeping, ſuch curſing, and raging, all <hi>England</hi> will cry out, and ſay,
+<pb n="2" facs="tcp:46777:3"/>
+               <hi>O ye bloudy Souldiers, have ye murthered our KING? Ye took Oathes and Covenants to defend His Perſon, and now have ye cut His Throat?</hi> Truly <hi>(Fellow-ſoul<g ref="char:EOLhyphen"/>diers)</hi> we are arrant fooles to make the world hate us for killing the KING, and yet we not be one penny the better for it. If we ſee cauſe, we can any time hereafter take away his life, when we have our Arrears, and things are better ſetled; but if now we ſhed his bloud, we can never make him alive againe: Therefore, before we doe that which can never be undone, let us Souldiers make our beſt uſe of it; let us declare, <hi>that untill they pay us all our Arrears they ſhall not put the KING to death;</hi> let us doe this, (and on my life, it will bring in every penny of our money; you ſhall ſee they will ſtrive who ſhall firſt pay us; thoſe that are ſo hot to have the KING'S bloud, will pay us rather than let Him live; and thoſe who are His friends will give us any thing rather than let Him die: my Landlord told me, that if we Souldiers would ſave the KING'S life (which we can eaſily doe) the KING'S Friends would pay us all our Arreares, and give us two hundred thouſand pounds as a gratuity beſides; He bid us name our Summe and it ſhould be paid us downe upon the nayle. And why <hi>(fellow Soul<g ref="char:EOLhyphen"/>diers)</hi> ſhould we refuſe this? now is the time, for when the KING, is dead they will not give us two pence; we know the <hi>Scots</hi> would not part with the KING untill they had their <hi>two hundred thouſand pounds,</hi> and are not our Ar<g ref="char:EOLhyphen"/>reares as due as theirs? nay, when the <hi>Parliament</hi> got the KING they would have kept Him, had not we reſolutely fetcht Him from <hi>Holdenby;</hi> yet while they had Him, they grew ſo high, that they offer'd to Disband us without paying all Arreares. Then we got the KING, and while we uſed Him civilly, all <hi>England</hi> was for us, who then but the <hi>Army,</hi> the KING and the <hi>Army</hi> were in every mans
+<pb n="3" facs="tcp:46777:3"/>mouth; but as ſoone as we clapt Him in <hi>Carisbrooke-Caſtle,</hi> and ſuffer'd none to make Addreſſes to Him, then all the Kingdome cried out upon the <hi>Army,</hi> each County be<g ref="char:EOLhyphen"/>gan to riſe upon us, you know what worke we had in <hi>Wales, Kent, Eſſex,</hi> twenty thouſand <hi>Scots</hi> powring in upon us, who if they had but the <hi>twentieth part</hi> of our Engliſh cour<g ref="char:EOLhyphen"/>rage, we had found a hard taske of it. So ye ſee the KING ſtill is all in all; who ever got the KING had the hearts of the People; in all our Quarters and where<g ref="char:EOLhyphen"/>ever we March'd ye heard the People ſtill calling for their KING; if they hate us and fought with us for keeping Him in Priſon, how will they rage when they ſee us cut His throat? thinke ye that then they will pay us our Arreares? I ſay <hi>(fellow Souldiers)</hi> we are all ſtarke mad if we let the KING die till we have our money.</p>
+            <p>But, perhaps ſome will ſay, that the <hi>Councell of Warre</hi> doth not hinder our Arreares, that they are Officers, and would be as glad of their money as we would: I confeſſe indeed ſome Officers would, for ſome are in the ſame caſe with us us; but the Chief Commanders, the Grandees are of another mind, they have all at command, Sequeſtrations, Offices, Parliament and all; Lieutenant Generall <hi>Crom<g ref="char:EOLhyphen"/>well</hi> hath many thouſand pounds a yeare of the Earle of <hi>Worceſter's</hi> Eſtate: They can pay themſelves, but when will they pay us? They make the Parliament Vote what they pleaſe; nay <hi>(fellow Souldiers</hi>) when we tooke the money from <hi>Weavers-hall,</hi> the <hi>Councell of Warre</hi> refuſed to let Us have it, but Voted (forſooth) to ſend it to the <hi>Navie,</hi> (he that Writes the <hi>OCCURRENCES</hi> ſaies ſo in print. And the other day, They and the <hi>Houſe</hi> Voted two hundred thouſand pounds more for the <hi>Navie;</hi> they know the Sea-men can pay themſelves, they have Ships in their power as we now have the KING in our power; and ſhould
+<pb n="4" facs="tcp:46777:4"/>we ſerve them as the Sea-men ſerv'd them, perhaps then we might have our Arreares: But if at any time we aske for money, Maſter <hi>Poters</hi> is hired to ſtop our mouthes; that Fellow hath coſen'd us I know not how often, and by my con<g ref="char:EOLhyphen"/>ſent when next he comes, let us clap him neck and heeles; he ſaid, <hi>they would pay us as ſoone as we came to Lon<g ref="char:EOLhyphen"/>don,</hi> but here we have waited two months longer, yet no Arreares: then they told us, that <hi>the Parliament was full of Rotten Members, and the Houſe muſt be purg'd e're we could be paid;</hi> I thinke we gave it a ſufficient Purge, we Impriſon'd and drove away ſo many <hi>Members</hi> that we have not left above fifty or threeſcore, not a <hi>Member</hi> ſits now but ſuch as our <hi>Councell of Warre</hi> approv'd of, and both They and our <hi>Councell</hi> have ſate ſeven Weeks, yet no Arreares. Alas! <hi>(fellow Souldiers)</hi> theſe are all tricks, meere Tricks, they can never want ſuch excuſes as theſe; and if now we let them take the KING and put him to death, we may go whistle for our Arreares.</p>
+            <p>But ſuppoſe now we had our Arreares, (which we are not like if we loſe this opportunity,) are we the better for this <hi>Kings</hi> death? When He is gone, either we muſt have ano<g ref="char:EOLhyphen"/>ther <hi>King,</hi> or a new kinde of Government; and this new Government will be either a <hi>Parliament,</hi> or a <hi>Committee,</hi> or <hi>many Kings</hi> at once: For <hi>Parliaments</hi> and <hi>Co<g ref="char:cmbAbbrStroke">̄</g>mittees</hi> we know how they have uſed us, they Voted and gather'd up wealth for themſelves, but let us bleed and ſtorve, ſink or ſwim, all was one to them. And for many Kings at once, they ſay that heretofore <hi>England</hi> had ſix or ſeaven Kings at a time, but theſe petty Kings were little better then one of our <hi>Colonels,</hi> and they never left cutting one anothers throats till all again came under <hi>one King.</hi> If then we muſt have but one King ſtill, why ſhould we kill this <hi>King?</hi> Ye know when He dies, His ſonne, the Prince of <hi>WALES</hi> is
+<pb n="5" facs="tcp:46777:4"/>King; what, muſt we cut his throat alſo? we cannot if we would, and this Kings Bloud will ſtick ſo upon as and make us ſo abominable to all the people, we ſhall have ſmall heart to kill any more <hi>Kings.</hi> But were it in our power to deſtroy this <hi>King,</hi> and all His <hi>Poſterity,</hi> and all the Kings in <hi>Chriſtendome</hi> (which are his Allies;) who then ſhall be our King? The <hi>Councell</hi> ſaies in our <hi>Remonſtrance</hi> we muſt have an <hi>Elective King;</hi> but whom ſhall we Elect? If we chooſe our <hi>Generall,</hi> alas, he will be ſeduced by wicked Councell; we know he is a gallant man in the <hi>Field,</hi> but at <hi>Councels of Warre</hi> he does little, and ſpeakes leſſe; he is fitter to be our <hi>Generall</hi> then our <hi>King.</hi> Or ſhall Leiute<g ref="char:EOLhyphen"/>nant Generall <hi>Cromwell</hi> be the man? The truth is, they talk moſt of him, and I believe he lookes to be <hi>KING,</hi> and therefore I hold him unfitteſt of all; ſix yeares ſince he was but Captaine <hi>Cromwell,</hi> and if now he be ſuch a great man, it is our Swords have made him ſo; ſhould any man have ſaid to us ſix yeares agoe, <hi>Ye Souldiers ſhall fight, and never leave fighting till ye have cut King CHARLES his throat, and made Captaine CROMWELT. King of</hi> England, I think we all ſhould have thought that man mad. And yet <hi>(Fellow-ſouldiers)</hi> this is our cafe; have not we ſpun a fine thred? Let who will be <hi>King,</hi> we ſhall be but Common Souldiers ſtill. I remember the tale of a Knight and a Carrier, the Knight comming from <hi>London</hi> met the Carrier, and told him newes, how King <hi>Edward</hi> was murthered, and <hi>Crook-back'd Richard</hi> was Crown'd King of England; <hi>Alas Sir</hi> (ſaid the Carrier) <hi>what is that to me? I ſhall be but a Carrier ſtill;</hi> So whether it be King <hi>CHARLES</hi> or King <hi>Cromwell,</hi> we ſhall be but Common Souldiers ſtill; what are Crownes and Scepters to us? When the King was at <hi>Carisbrook</hi> and at <hi>Hampton Court,</hi> he offerd to <hi>Pay us all our Arreares, and to
+<pb n="6" facs="tcp:46777:5"/>grant us the MILITIA as long as he liv'd;</hi> Could any King ſay more? For my part I like Him as well as Lieut. Generall <hi>Cromwell:</hi> King <hi>CHARLES</hi> is as Libe<g ref="char:EOLhyphen"/>rall as Lieut. Generall <hi>Cromwell;</hi> King <hi>CHARLES</hi> is as Chaſt as Lieut. Generall <hi>Cromwell;</hi> King <hi>CHARLES</hi> is as Mercifull as Lieutenant Generall <hi>Cromwell;</hi> King <hi>CHARLES</hi> is as Wiſe as Lieut. Generall <hi>Cromwell;</hi> King <hi>CHARLES</hi> is as Temperate as Lieutenant Gene<g ref="char:EOLhyphen"/>rall <hi>Cromwell;</hi> King <hi>CHARLES</hi> is as Patient as Lieutenant Generall <hi>Cromwell;</hi> King <hi>CHARLES</hi> is as handſome a Man as Lieutenant Generall <hi>Cromwell;</hi> King <hi>CHARLES</hi> hath as ſweet Children as Lieut. Generall <hi>Cromwell;</hi> and King <hi>CHARLES</hi> is as well Deſcended as Lieutenant Generall <hi>Cromwell.</hi> Remember when firſt we refuſed to Disband, it was for our <hi>Arrears,</hi> and <hi>In<g ref="char:EOLhyphen"/>demnity confirmed by the Royal Aſſent;</hi> we had an <hi>Ordi<g ref="char:EOLhyphen"/>nance of both Houſes,</hi> but we wanted <hi>His Majeſties Royal Aſſent;</hi> what, can we have His <hi>Aſſent</hi> after we have cut His throat? ſure we are all mad. Alas (Fellow-ſouldiers) what good will the Kings bloud doe us? We now can ſave His life with a wet finger, let us doe it, we ſhall get all our Arreares, Indempnity, and every thing; all the Kingdome, City, and Country, will love us, and pray for us: Now or never (Fellow-Souldiers) let us ſave our Credit, ſave our Arrears, ſave our KING'S Life, One and All, Gods Bleſsing goe along with us.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46777:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
